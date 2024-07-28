@@ -1,0 +1,4 @@
+isim_soyisim,yas,boy,kilo,vki,sinif
+sudenaz yýldýz,20,165.0,53.0,19.467401285583104,Normal kilolu
+beril tusun,19,173.0,50.0,16.70620468441979,Zayýf
+sýdýka sude arkaç,21,167.0,56.0,20.07960127648894,Normal kilolu
